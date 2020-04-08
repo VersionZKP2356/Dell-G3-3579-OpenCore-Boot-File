@@ -29,3 +29,7 @@ Not Working：
 1.DGPU（无解GTX1050Ti），已被SSDT禁用。
 
 2.HDMI（可用适配macOS的USB转HDMI转接线实现外接显示器）。
+
+注意：
+
+因为整个文件过大，所以我把它放在release里，1.0版本。

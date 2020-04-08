@@ -32,6 +32,18 @@ Not Working：
 
 2.HDMI（可用适配macOS的USB转HDMI转接线实现外接显示器）。
 
+硬件配置：
+
+CPU:i7-8750H
+
+内存：16GB
+
+无线网卡：DW1820A
+
+IGPU：Intel UHD Graphics 630
+
+DGPU：Nvidia GeForce GTX 1050Ti（Not Working）
+
 注意：
 
 因为整个文件过大，所以我把它放在releases里，1.0版本。

@@ -22,7 +22,9 @@ Working:
 
 9.OpenCore版本：0.0.4
 
-10.该版本基于Certe Kim所制作的版本，在其之上优化而成
+10.该版本基于Certe Kim所制作的版本，在其之上优化而成。
+
+11.另附GRUB的Shell，使用方法见release中的介绍。
 
 Not Working：
 

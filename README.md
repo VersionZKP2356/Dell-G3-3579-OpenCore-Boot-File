@@ -1,6 +1,6 @@
 # Dell-G3-3579-OpenCore-Boot-File
 
-# <b>当前最新正式版本是<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V2.0">V2.0</a>！！！<b>
+# <b>当前最新正式版本是<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V3.0">V3.0</a>！！！<b>
 
 正常工作:
 
@@ -22,7 +22,7 @@
 
 9.OpenCore版本：<s>0.0.4</s>  最新0.6.0正式版，还有0.6.1开发版
 
-10.另附GRUB的Shell(仅在<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/v1.0">1.0</a>版本中有)，使用方法见release中的介绍。
+10.另附GRUB的Shell(仅在<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V1.0">1.0</a>版本中有)，使用方法见release中的介绍。
 
 不工作：
 

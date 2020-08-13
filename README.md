@@ -20,7 +20,7 @@
 
 8.蓝牙正常（使用DW1820A）。
 
-9.OpenCore版本：<s>0.0.4</s>  最新0.6.0正式版，还有0.6.0开发版
+9.OpenCore版本：<s>0.0.4</s>  最新0.6.0正式版，还有0.6.1开发版
 
 10.另附GRUB的Shell(仅在<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/v1.0">1.0</a>版本中有)，使用方法见release中的介绍。
 
@@ -46,4 +46,7 @@ DGPU：Nvidia GeForce GTX 1050Ti（Not Working）
 
 注意：
 
-因为整个文件过大，所以我把它放在releases里，<s>1.0版本</s>  最新版本2.0，3.0版是OC0.6.0开发版，比0.6.0正式版版本要低，如果我有时间我会再出一个0.6.1开发版，敬请期待
+因为整个文件过大，所以我把它放在releases里，<s>1.0版本</s>  最新版本2.0，3.0版是OC0.6.0开发版，比0.6.0正式版版本要低，<s>如果我有时间我会再出一个0.6.1开发版，敬请期待</s>
+
+0.6.1开发版已经放出，在<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.0">V4.0 Preview</a>
+

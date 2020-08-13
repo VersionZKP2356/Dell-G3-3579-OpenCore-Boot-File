@@ -1,5 +1,7 @@
 # Dell-G3-3579-OpenCore-Boot-File
 
+# <b>当前最新正式版本是<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V2.0">V2.0</a>！！！<b>
+
 正常工作:
 
 1.支持<s>10.15.4</s> 11 Big Sur和10.13.6启动。

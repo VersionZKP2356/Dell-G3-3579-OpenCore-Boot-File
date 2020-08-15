@@ -12,7 +12,7 @@
 >
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V2.0">V2.0 Preview OC 0.6.0开发版(需升级kext才支持big sur)</a></b>
 >
-> <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V1.0">V1.0(带有GRUB Shell，OC0.0.4)</a></b>
+> <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V1.0">V1.0 OC 0.0.4(带有GRUB Shell)</a></b>
 
 正常工作:
 

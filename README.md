@@ -64,5 +64,5 @@ DGPU：Nvidia GeForce GTX 1050Ti（Not Working）
 
 0.6.1开发版已经放出，在<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.0">V4.0 Preview</a>
 
-0.6.1开发版8月14日编译版现已放出，<a href-"https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.1">Releases V4.1</a> 版本，所有Kexts均已升级到发布时最新版本
+0.6.1开发版8月14日编译版现已放出，<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.1">Releases V4.1</a> 版本，所有Kexts均已升级到发布时最新版本
 

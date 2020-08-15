@@ -60,7 +60,7 @@ DGPU：Nvidia GeForce GTX 1050Ti（Not Working）
 
 注意：
 
-因为整个文件过大，所以我把它放在releases里，<s>1.0版本</s>  最新版本<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V3.0">V3.0</a>，<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V2.0">V2.0版是OC0.6.0开发版，比0.6.0正式版版本要低，<s>如果我有时间我会再出一个0.6.1开发版，敬请期待</s>
+因为整个文件过大，所以我把它放在releases里，<s>1.0版本</s>  最新版本<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V3.0">V3.0</a>，<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V2.0">V2.0版</a>是OC0.6.0开发版，比0.6.0正式版版本要低，<s>如果我有时间我会再出一个0.6.1开发版，敬请期待</s>
 
 0.6.1开发版已经放出，在<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.0">V4.0 Preview</a>
 

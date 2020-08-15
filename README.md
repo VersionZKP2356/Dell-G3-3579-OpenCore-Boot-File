@@ -5,13 +5,13 @@
 ### <b>版本导航（因为我不会弄这个Releases，弄得1.0在4.0前面，乱七八糟的，所以才需要这个）</b>
 
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.1">V4.1 Preview OC 0.6.1开发版 8月14日编译版(支持Big Sur引导)</a></b>
-
+>
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.0">V4.0 Preview OC 0.6.1开发版(支持Big Sur引导)</a></b>
-
+>
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V3.0">V3.0 OC 0.6.0正式版(支持Big Sur引导)</a></b>
-
-> <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V2.0">V2.0(OC 0.6.0开发版，需升级kext才支持big sur)</a></b>
-
+>
+> <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V2.0">V2.0 Preview(OC 0.6.0开发版，需升级kext才支持big sur)</a></b>
+>
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V1.0">V1.0(带有GRUB Shell，OC0.0.4)</a></b>
 
 正常工作:

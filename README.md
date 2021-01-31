@@ -1,17 +1,21 @@
 # Dell G3 3579 OpenCore EFI 引导文件
 
-## <b>版本导航</b>
-> ### <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.2">V4.2 OC 0.6.1开发版 kext更新至12月19日最新版，无大变化</a></b>(2020年12月19日更新)
->
+## <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.3">V4.3 OC 0.6.1开发版 修复以太网无法连接网络的问题，无更新kext，注意事项详见release</a></b>(2021年1月31日更新)
+
+<details><summary><b>更早版本</b></summary> 
+
+> <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.2">V4.2 OC 0.6.1开发版 kext更新至12月19日最新版，无大变化</a></b>(2020年12月19日更新)
+
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.1">V4.1 Preview OC 0.6.1开发版 8月14日编译版(支持Big Sur引导)</a></b>(2020年8月15日更新)
->
+
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.0">V4.0 Preview OC 0.6.1开发版(支持Big Sur引导)</a></b>(2020年8月13日更新)
->
+
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V3.0">V3.0 OC 0.6.0正式版(支持Big Sur引导)</a></b>(2020年8月10日更新)
->
+
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V2.0">V2.0 Preview OC 0.6.0开发版(需升级kext才支持big sur)</a></b>(2020年8月10日更新)
->
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V1.0">V1.0 OC 0.0.4(带有GRUB Shell)</a></b>(2020年4月8日更新)
+
+</details>
 
 正常工作:
 

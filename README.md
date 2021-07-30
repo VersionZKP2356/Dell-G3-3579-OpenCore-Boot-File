@@ -2,13 +2,17 @@
 
 ## 目前由于众所周知的原因，GitHub时常抽风上不了，所以有时更新后无法及时发布，gitee会及时更新。gitee地址:https://gitee.com/kp296/dell_g3_3579_opencore_bootloader
 
-## <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V5.1">V5.1 OC 0.7.1正式版 更新opencore到0.7.1正式版(7月6日编译)，升级kexts到最新版，原则支持macOS 12引导启动。修复主题和黑屏(详见release)(2021年7月7日更新)</a>
+## <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V5.2">V5.2 OC 0.7.1正式版 更新opencore到0.7.1正式版(7月6日编译)，升级kexts到最新版，原则支持macOS 12引导启动。更新系统至macOS11.5，更换西数SN550nvme固态硬盘，更新SMBIOS。(2021年7月30日更新)</a>
 
 <details><summary><b>更早版本</b></summary> 
 
+> <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V5.1">V5.1 OC 0.7.1正式版，修复主题，黑屏问题未完全修复</a></b>(2021年7月7日更新)
+  
+> <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V5.0">V5.0 OC 0.7.1正式版，问题较多，无法显示主题，开机黑屏问题，等待修复。</a></b>(2021年7月6日更新)
+
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.3">V4.3 OC 0.6.1开发版 修复以太网无法连接网络的问题，无更新kext，注意事项详见release</a></b>(2021年1月31日更新)  
 
-  > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.2">V4.2 OC 0.6.1开发版 kext更新至12月19日最新版，无大变化</a></b>(2020年12月19日更新)
+> <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.2">V4.2 OC 0.6.1开发版 kext更新至12月19日最新版，无大变化</a></b>(2020年12月19日更新)
 
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.1">V4.1 Preview OC 0.6.1开发版 8月14日编译版(支持Big Sur引导)</a></b>(2020年8月15日更新)
 

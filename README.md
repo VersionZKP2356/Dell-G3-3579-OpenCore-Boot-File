@@ -44,7 +44,7 @@
 
 8.蓝牙正常（使用DW1820A）。
 
-9.OpenCore版本：最新0.6.1开发版
+9.OpenCore版本：0.7.1正式版
 
 10.在V4.1 Preview之后的版本中，默认加入OC官方GUI引导选择界面，可以用鼠标点选启动项，如不喜欢，具体解除方法见<a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V4.1">V4.1 Preview</a>的说明
 

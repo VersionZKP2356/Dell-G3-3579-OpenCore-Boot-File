@@ -2,7 +2,9 @@
 
 ## 目前由于众所周知的原因，GitHub时常抽风上不了，所以有时更新后无法及时发布，gitee会及时更新。gitee地址:https://gitee.com/kp296/dell_g3_3579_opencore_bootloader
 
-## <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V5.2">V5.2 OC 0.7.1正式版 更新opencore到0.7.1正式版(7月6日编译)，升级kexts到最新版，原则支持macOS 12引导启动。更新系统至macOS11.5，更换西数SN550nvme固态硬盘，更新SMBIOS。(2021年7月30日更新)</a>
+## <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V5.3">V5.3 OC 0.7.1正式版,不支持macOS12,修复黑屏,取消对未关闭CFG锁设备的支持。（2021年8月2日更新)</a></b>
+
+## <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V5.2">V5.2 OC 0.7.1正式版,支持macOS12(2021年7月30日更新)</a>
 
 <details><summary><b>更早版本</b></summary> 
 

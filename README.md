@@ -7,11 +7,13 @@ setup_var 0x5BC 0x0 (关闭CFG锁)
 
 ## 版本更新
 
-### <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V5.3">V5.3 OC 0.7.1正式版,不支持macOS12,修复黑屏,取消对未关闭CFG锁设备的支持。（2021年8月2日更新)</a></b>
-
-### <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V5.2">V5.2 OC 0.7.1正式版,支持macOS12(2021年7月30日更新)</a>
+### <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V6.0">V6.0 OC 0.7.8正式版,实测支持macOS12。（2022年2月15日更新)</a></b>
 
 <details><summary><b>更早版本</b></summary> 
+
+> <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V5.3">V5.3 OC 0.7.1正式版,不支持macOS12(2021年8月2日更新)</a>
+
+> <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V5.2">V5.2 OC 0.7.1正式版,理论支持macOS12(2021年7月30日更新)</a>
 
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V5.1">V5.1 OC 0.7.1正式版，修复主题，黑屏问题未完全修复</a></b>(2021年7月7日更新)
   

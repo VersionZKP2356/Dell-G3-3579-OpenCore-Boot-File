@@ -1,6 +1,6 @@
 # Dell G3 3579 OpenCore EFI 引导文件
 
-## 目前由于众所周知的原因，GitHub时常抽风上不了，所以有时更新后无法及时发布，gitee会及时更新。gitee地址:https://gitee.com/kp296/dell_g3_3579_opencore_bootloader
+## 目前由于众所周知的原因，GitHub时常抽风上不了，所以有时更新后可能无法及时发布，gitee会及时更新。gitee地址:https://gitee.com/kp296/dell_g3_3579_opencore_bootloader
 
 ## grubx64.efi 用法
 setup_var 0x5BC 0x0 (关闭CFG锁)

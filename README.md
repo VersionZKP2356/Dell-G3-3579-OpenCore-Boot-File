@@ -7,11 +7,13 @@ setup_var 0x5BC 0x0 (关闭CFG锁)
 
 ## 版本更新
 
-### <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V6.0%2B">V6.0+ OC 0.7.8正式版,实测支持macOS12。修复V6.0中蓝牙问题（2022年2月15日更新)</a></b>
-
-<b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V6.0">V6.0 OC 0.7.8正式版,实测支持macOS12。（2022年2月15日更新)</a></b>
+### <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V6.1">V6.1 OC 0.7.8正式版,通过加入启动参数修复开机黑屏问题</a></b>
 
 <details><summary><b>更早版本</b></summary> 
+
+> <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V6.0%2B">V6.0+ OC 0.7.8正式版,实测支持macOS12。修复V6.0中蓝牙问题（2022年2月15日更新)</a></b>
+
+> <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V6.0">V6.0 OC 0.7.8正式版,实测支持macOS12。（2022年2月15日更新)</a></b>
 
 > <b><a href="https://github.com/VersionZKP2356/Dell-G3-3579-OpenCore-Boot-File/releases/tag/V5.3">V5.3 OC 0.7.1正式版,不支持macOS12(2021年8月2日更新)</a>
 

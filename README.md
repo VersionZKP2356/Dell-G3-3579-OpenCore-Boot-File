@@ -41,7 +41,7 @@ setup_var 0x5BC 0x0 (关闭CFG锁)
 
 正常工作:
 
-1.支持11.5 Big Sur启动,理论支持macOS 12启动(未测试)。
+1.支持macOS 12启动。
 
 2.声卡（ALC236）layout-ID=15，工作正常。
 
